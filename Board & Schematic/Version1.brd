@@ -1633,13 +1633,13 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="1.65" y1="22" x2="9.65" y2="22" width="0.4064" layer="1"/>
 <via x="9.65" y="22" extent="1-16" drill="0.6" shape="square"/>
 <wire x1="10.15" y1="12.71" x2="10.61" y2="12.67" width="0.4064" layer="1"/>
-<polygon width="0" layer="1">
+<polygon width="0.3048" layer="1">
 <vertex x="0" y="11.9888"/>
 <vertex x="12.0142" y="11.9888"/>
 <vertex x="12.0142" y="24.0792"/>
 <vertex x="0" y="24.0792"/>
 </polygon>
-<polygon width="0" layer="16">
+<polygon width="0.3048" layer="16">
 <vertex x="0" y="11.9888"/>
 <vertex x="12.0142" y="11.9888"/>
 <vertex x="12.0142" y="24.0792"/>
